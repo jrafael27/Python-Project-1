@@ -1,0 +1,25 @@
+{
+    "produk": [
+        {
+            "id": 1,
+            "nama": "Roti",
+            "harga": 10000,
+            "stok": 50,
+            "terjual" : 40
+        },
+        {
+            "id": 2,
+            "nama": "Kue",
+            "harga": 20000,
+            "stok": 30,
+            "terjual" : 20
+        },
+        {
+            "id": 3,
+            "nama": "Donat",
+            "harga": 15000,
+            "stok": 20,
+            "terjual" : 10
+        }
+    ]
+}
