@@ -1,0 +1,12 @@
+[
+    {"nama": "Kopi Susu", "harga": 18000, "terjual": 250},
+    {"nama": "Americano", "harga": 15000, "terjual": 180},
+    {"nama": "Matcha Latte", "harga": 22000, "terjual": 145},
+    {"nama": "Nasi Goreng", "harga": 28000, "terjual": 120},
+    {"nama": "Chicken Rice", "harga": 32000, "terjual": 95},
+    {"nama": "Kentang Goreng", "harga": 20000, "terjual": 160},
+    {"nama": "Roti Bakar", "harga": 19000, "terjual": 110},
+    {"nama": "Mie Goreng", "harga": 25000, "terjual": 130},
+    {"nama": "Teh Lemon", "harga": 12000, "terjual": 200},
+    {"nama": "Cappuccino", "harga": 20000, "terjual": 170}
+]

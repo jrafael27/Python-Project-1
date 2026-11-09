@@ -1,0 +1,73 @@
+{
+    "total_produk": 10,
+    "total_omzet": 31130000,
+    "produk_terlaris": {
+        "nama": "Kopi Susu",
+        "terjual": 250,
+        "omzet": 4500000
+    },
+    "detail_produk": [
+        {
+            "nama": "Kopi Susu",
+            "harga": 18000,
+            "terjual": 250,
+            "omzet": 4500000
+        },
+        {
+            "nama": "Americano",
+            "harga": 15000,
+            "terjual": 180,
+            "omzet": 2700000
+        },
+        {
+            "nama": "Matcha Latte",
+            "harga": 22000,
+            "terjual": 145,
+            "omzet": 3190000
+        },
+        {
+            "nama": "Nasi Goreng",
+            "harga": 28000,
+            "terjual": 120,
+            "omzet": 3360000
+        },
+        {
+            "nama": "Chicken Rice",
+            "harga": 32000,
+            "terjual": 95,
+            "omzet": 3040000
+        },
+        {
+            "nama": "Kentang Goreng",
+            "harga": 20000,
+            "terjual": 160,
+            "omzet": 3200000
+        },
+        {
+            "nama": "Roti Bakar",
+            "harga": 19000,
+            "terjual": 110,
+            "omzet": 2090000
+        },
+        {
+            "nama": "Mie Goreng",
+            "harga": 25000,
+            "terjual": 130,
+            "omzet": 3250000
+        },
+        {
+            "nama": "Teh Lemon",
+            "harga": 12000,
+            "terjual": 200,
+            "omzet": 2400000
+        },
+        {
+            "nama": "Cappuccino",
+            "harga": 20000,
+            "terjual": 170,
+            "omzet": 3400000
+        }
+    ],
+    "kurs_idr_per_usd": 18102.116346,
+    "total_omzet_usd": 1719.69
+}
