@@ -1,0 +1,13 @@
+id,tanggal,produk,kategori,jumlah,harga_satuan,kota,status
+1,2026-11-01,Kopi Susu,Minuman,2,18000,Surabaya,selesai
+2,2026-11-01,Americano,Minuman,1,15000,Surabaya,selesai
+3,2026-11-02,Nasi Goreng,Makanan,2,28000,Sidoarjo,selesai
+4,2026-11-02,Kentang Goreng,Snack,1,20000,Surabaya,dibatalkan
+5,2026-11-03,Matcha Latte,Minuman,3,22000,Gresik,selesai
+6,2026-11-03,Chicken Rice,Makanan,1,32000,Surabaya,diproses
+7,2026-11-04,Teh Lemon,Minuman,2,12000,Sidoarjo,selesai
+8,2026-11-04,Roti Bakar,Snack,1,19000,Surabaya,selesai
+9,2026-11-05,Mie Goreng,Makanan,2,25000,Gresik,selesai
+10,2026-11-05,Cappuccino,Minuman,1,20000,Surabaya,dibatalkan
+11,2026-11-06,Pisang Goreng,Snack,3,15000,Sidoarjo,diproses
+12,2026-11-06,Ayam Bakar,Makanan,1,35000,Surabaya,selesai
